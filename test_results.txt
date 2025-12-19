@@ -1,0 +1,17 @@
+63/63 ━━━━━━━━━━━━━━━━━━━━ 66s 996ms/step - accuracy: 0.9817 - loss: 0.3097
+
+Test Accuracy: 99.15%
+Test Loss: 0.1296
+63/63 ━━━━━━━━━━━━━━━━━━━━ 57s 837ms/step
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      closed       0.99      0.99      0.99       613
+     nothing       1.00      0.99      1.00       717
+   open hand       0.98      1.00      0.99       675
+
+    accuracy                           0.99      2005
+   macro avg       0.99      0.99      0.99      2005
+weighted avg       0.99      0.99      0.99      2005

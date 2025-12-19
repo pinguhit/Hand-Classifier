@@ -1,0 +1,77 @@
+gotta collect 4000 per dataset
+
+Open-Hand-4000 images
+    hand-only = 1000,plain bg ->> done
+        phone=300 ->> done
+        laptop=700 ->> done
+        
+    hand+guitar+no face = 800
+        phone =200 ->> done
+        laptop = 600 ->> 3 positions, take 200 each ->> out of those 200 divide in left and right as 100 each ->done
+
+    hand+guitar+face = 800
+        phone=200 ->> done
+        laptop=600 ->> 3 positions, take 200 each ->done
+    
+    left-hand any scenario = 400
+        phone=150 ->> done
+        laptop=250 ->> done
+    
+    right-hand any scenario = 400
+        phone=150 ->> done
+        laptop = 250 ->>done
+
+    diff angles + any = 30 0
+        phone = 100 ->> done
+        laptop = 200 ->>done
+    
+    diff distances + any = 300
+        phone = 100 ->> done
+        laptop = 200 ->> done
+
+Closed-Hand-4000 images
+    hand-only = 1000,plain bg ->> done 
+        phone=300 ->> done
+        laptop=700 ->> done
+        
+    hand+guitar+no face = 800
+        phone =200 ->> done
+        laptop = 600 ->> 3 positions, take 200 each -> done
+
+    hand+guitar+face = 800
+        phone=200 ->> done
+        laptop=600 ->> 3 positions, take 200 each -> done
+    
+    left-hand any scenario = 400
+        phone=150 ->> done
+        laptop=250 ->> done
+    
+    right-hand any scenario = 400
+        phone=150 ->> done
+        laptop = 250 ->>done
+
+    diff angles + any = 300
+        phone = 100 ->> done
+        laptop = 200 ->> done
+    
+    diff distances + any = 300
+        phone = 100 ->> done
+        laptop = 200 ->> done
+
+No-Hand - 5000 images
+
+    empty bg = 3000
+        2000 laptop
+        1000 phone done
+
+    face+guitar, no hand = 1000
+        800 laptop
+        200 phone
+
+    Partial hands = 500(not in full frame)
+        400 laptop
+        100 phone
+
+    Face only - 500
+        400 laptop
+        100 phone
